@@ -39,10 +39,10 @@ paginate: 2 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
-  username: DavidDarnes # jekyll-seo-tag > Owners twitter username
-author: DavidDarnes # jekyll-seo-tag > default author
+  username: Guanlin MENG # jekyll-seo-tag > Owners twitter username
+author: GuanlinMENG # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
-  name: David Darnes # jekyll-seo-tag > real name
+  name: Guanlin MENG # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
     - https://twitter.com/meng59019426
     - https://www.facebook.com/
@@ -131,8 +131,7 @@ navigation_header:
   url: /categories/
 - title: Search
   url: /search/
-- title: Fork Website
-  url: https://github.com/paopaolin/github.io
+
 
 navigation_footer:
 - title: Created by Guanlin MENG
